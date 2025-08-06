@@ -1,0 +1,7 @@
+#send{
+  transform: rotate(-35deg);
+}
+
+::-webkit-scrollbar {
+  width: 0.1px;
+}
